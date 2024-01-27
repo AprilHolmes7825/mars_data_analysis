@@ -1,4 +1,4 @@
-# mars_data_analysis
+# Mars Data Analysis
 
 Module 11 Challenge
 
